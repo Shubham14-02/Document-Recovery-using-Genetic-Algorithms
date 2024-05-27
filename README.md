@@ -1,6 +1,6 @@
 # Document-Recovery-using-Genetic-Algorithms
 
-#Problem Description
+# Problem Description
 Files given are scrambled/shredded and look like this:
 ![image](https://github.com/Shubham14-02/Document-Recovery-using-Genetic-Algorithms/assets/65832723/1e591bf6-666f-413b-a208-9bd346d90a90)
 
@@ -8,7 +8,7 @@ Files given are scrambled/shredded and look like this:
 The actual document is a paragraph containing important information. And looks like this:
 ![image](https://github.com/Shubham14-02/Document-Recovery-using-Genetic-Algorithms/assets/65832723/4d0faa72-2c12-426e-9a53-08d7d9544548)
 
-#Goal
+# Goal
 Develop a Genetic Algorithm (GA) to reconstruct the original documents from the shredded fragments
 
 # What a solution/chromosome looks like
